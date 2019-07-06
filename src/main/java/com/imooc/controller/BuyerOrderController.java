@@ -87,4 +87,8 @@ public class BuyerOrderController {
         return ResultVoUtil.success();
     }
 
+    public void test(){
+        System.out.println("潇哥哥");
+    }
+
 }
