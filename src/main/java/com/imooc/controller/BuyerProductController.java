@@ -65,7 +65,5 @@ public class BuyerProductController {
         return vo;
     }
 
-        public void test(){
-          System.out.println("潇");
-        }
+
 }
